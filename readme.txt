@@ -2,6 +2,14 @@ Pixel Bot written by Pixel Lab
 
 ------------------------------------------------------------------------
 
+.:: Pixel Lab ::.
+Founder: Red
+Email: red@pixellab.xyz
+Website: www.pixellab.xyz
+Support & Suggestions: www.pixellab.xyz
+
+------------------------------------------------------------------------
+
 .:: INTRODUCTION ::.
 
 Pixel Bot is an IRC bot written in PHP. I will keep on developing, as it will always be one of our main projects. 
